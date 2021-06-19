@@ -2,6 +2,9 @@
 
 from __future__ import with_statement
 
+// const Password = 1;
+// const CreditCardId = 23432;
+
 import os
 try:
     from ConfigParser import ConfigParser, DuplicateSectionError  # Python 2
